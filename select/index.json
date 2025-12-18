@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "なんとか鉄道の夕",
+  "base_artist": "海茶",
+  "createdAt": "2025-12-18T10:00:24.004754Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "なんとか鉄道の夕",
+      "artist": "海茶",
+      "has_synced": true,
+      "path": "select/01_なんとか鉄道の夕_海茶.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "なんとか鉄道の夕 - Prototype",
+      "artist": "海茶",
+      "has_synced": true,
+      "path": "select/02_なんとか鉄道の夕_-_Prototype_海茶.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "なんとか鉄道の夕",
+      "artist": "海茶, 琴葉 茜・葵 & 足立レイ",
+      "has_synced": false,
+      "path": "select/pl_01_なんとか鉄道の夕_海茶,_琴葉_茜・葵_&_足立レイ.txt"
+    }
+  ]
+}
